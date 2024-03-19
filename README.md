@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 Currently honing my data structures and algorithms skills.<br><br>👯 Open to collaborating on AI/ML projects, especially in healthcare or creative writing.<br><br>🤝 Seeking guidance in mastering advanced machine learning techniques.<br><br>🌱 Learning about NLP for generating fictional narratives.<br><br>💬 Ask me about algorithms, AI trends, or my favorite fictional worlds!<br><br>⚡ Fun fact: I enjoy crafting horror stories inspired by classic literature and modern cinema.
 
 
